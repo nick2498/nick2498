@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning React, Redux, Firebase
+- 📫 How to reach me: guptanaitik98@gmail.com
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: guptanaitik98@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
