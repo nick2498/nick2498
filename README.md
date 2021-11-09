@@ -1,4 +1,4 @@
-   # Hi there 👋, I'm Naitik Gupta
+<h1 align="centre"> Hi there 👋, I'm Naitik Gupta </h1>
 
 ### A passionate Web/Software Developer from India
 
