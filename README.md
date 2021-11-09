@@ -1,6 +1,6 @@
-<h1 align="centre"> Hi there 👋, I'm Naitik Gupta </h1>
+<h1 align="center"> Hi there 👋, I'm Naitik Gupta </h1>
 
-### A passionate Web/Software Developer from India
+<h3 align="center"> A passionate Developer from India </h3>
 
 <!--
 **nick2498/nick2498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
