@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Naitik Gupta
 
-##### A passionate Web/Software Developer from India
+#### A passionate Web/Software Developer from India
 
 <!--
 **nick2498/nick2498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
