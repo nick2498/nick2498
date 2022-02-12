@@ -8,8 +8,9 @@
 
 - 🔭 I’m currently working on myself
 - 🔗🪙 I’m currently exploring Blockchain, NFTs, WEB3, Smart Contract
-<!-- - 🌱 I’m currently learning React, Redux, Firebase -->
 - 📫 How to reach me: guptanaitik98@gmail.com
+
+<!-- - 🌱 I’m currently learning React, Redux, Firebase -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
