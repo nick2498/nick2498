@@ -37,7 +37,6 @@
 <!-- - 🔗🪙 I’m currently exploring ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-<br>
 
 ### Languages and Tools:
 
@@ -53,6 +52,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </span>
+<br>
 
 ### Github Status:
 
