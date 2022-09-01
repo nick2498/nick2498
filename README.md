@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </span>
 
-## Github Status:
+### Github Status:
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nick2498&show_icons=true&locale=en&layout=compact" alt="nick2498" /></p> -->
 <p>
