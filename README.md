@@ -37,6 +37,7 @@
 <!-- - 🔗🪙 I’m currently exploring ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+<br>
 
 ### Languages and Tools:
 
