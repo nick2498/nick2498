@@ -15,15 +15,15 @@
 
 ### Connect with me:
 
+<a target="_blank">
+  <img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nick2498/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naitik-gupta-773b80177/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/naitikgupta_2498/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:guptanaitik98@gmail.com)
 <!-- [![Linktree](https://img.shields.io/badge/-Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/inaitikgupta) -->
-
-<a target="_blank">
-  <img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
 <!-- Talking about you -->
 ### Talking about Personal Stuffs:
