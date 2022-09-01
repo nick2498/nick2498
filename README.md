@@ -69,7 +69,7 @@
 <!-- This readme was created by NAITIK GUPTA - https://github.com/nick2498 -->
 ### ⭐️ From [NAITIK GUPTA](https://github.com/nick2498)
 
-#### Thank you for Visting My Profile 😊
+### Thank you for Visting My Profile 😊
 <!-- ## With Love, Naitik  -->
 
 
