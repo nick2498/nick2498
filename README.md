@@ -61,7 +61,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nick2498&show_icons=true&locale=en&layout=compact" alt="nick2498" /></p> -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nick2498&show_icons=true&locale=en" alt="nick2498" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nick2498&" alt="nick2498" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nick2498" alt="nick2498" />
 </p>
 
 <!-- Profile Hits Counter -->
